@@ -4,7 +4,7 @@ A modular Discord bot built with nextcord.py.
 
 ## 📋 Requirements
 
-- Ubuntu Server (tested on Ubuntu 20.04/22.04)
+- Ubuntu Server (tested on Ubuntu 24.04.4 LTS)
 - Python 3.8+
 - pip (Python package manager)
 
