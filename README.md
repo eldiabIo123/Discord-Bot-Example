@@ -142,7 +142,7 @@ sudo journalctl -u discord-bot -n 50 --no-pager
 # Check if token is set correctly
 cat .env
 
-# U can check the logs when discord bot is running by this command (after -r is session_name)
+# You can check the logs when discord bot is running by this command (after -r is session_name)
 screen -r discord-bot
 ```
 
